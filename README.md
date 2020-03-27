@@ -1,2 +1,2 @@
 # goorm
-goorm 코딩 정리
+goorm 알고리즘 
